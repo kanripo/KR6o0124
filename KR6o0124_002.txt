@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:15.221330
+#+DATE: 2015-08-30 21:01:15.944609
 #+TITLE: 那先比丘經
 #+PROPERTY: CBETA_ID T32n1670A
 #+PROPERTY: ID KR6o0124
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1670A
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6o0124_T_002-0699a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 那先比丘經卷下¶
+那先比丘經卷下¶
 ¶
 失譯人名附東晉錄¶
 
@@ -426,7 +425,7 @@
 哉。¶
 
 那先言。夜已半我欲去。王即勅傍臣。取四端¶
-㲲布搵置油麻中持以為炬。當送那先歸。恭¶
+[疊*毛]布搵置油麻中持以為炬。當送那先歸。恭¶
 事那先如事我身。傍臣皆言受教。王言得師¶
 如那先。作弟子如我。可得道疾。王諸所問那¶
 先輒事事答之。王大歡喜王即出中藏好衣¶

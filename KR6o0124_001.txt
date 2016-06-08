@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:15.182195
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 那先比丘經
 #+PROPERTY: CBETA_ID T32n1670A
 #+PROPERTY: ID KR6o0124
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1670A
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0124_T_001-0694a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1670(A)¶
-
- 那先比丘經卷上¶
+No. 1670 (A)¶
+那先比丘經卷上¶
 ¶
 失譯人名附東晉錄¶
 
@@ -24,7 +23,7 @@ No.1670(A)¶
 至藂樹間。其樹大有神。佛坐其下思念道。¶
 去樹不遠有群象五六百頭。中有象王賢善¶
 知善惡之事。譬如人狀。象輩眾多周匝象王¶
-邊。諸小象走居前水中。走戲㧌撈水令濁¶
+邊。諸小象走居前水中。走戲㧌水令濁¶
 惡。諸小象復走居前食噉美草。走戲蹈踐其¶
 上。我眾大多患。是諸象及小象子。㧌撈水令¶
 濁惡令草不淨。而反常飢飲濁惡水。食足踐¶

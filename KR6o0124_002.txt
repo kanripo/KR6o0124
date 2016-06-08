@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:15.221330
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 那先比丘經
 #+PROPERTY: CBETA_ID T32n1670A
 #+PROPERTY: ID KR6o0124
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1670A
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0124_T_002-0699a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 那先比丘經卷下¶
+那先比丘經卷下¶
 ¶
 失譯人名附東晉錄¶
 

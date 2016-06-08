@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:15.221330
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 那先比丘經
 #+PROPERTY: CBETA_ID T32n1670A
 #+PROPERTY: ID KR6o0124
